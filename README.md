@@ -13,14 +13,14 @@ First You'll need the Following Requiremnts
 
 To Install It On Windows Open A cmd window And type
 
-,,,
+```
 pip install SpeechRecognition
-,,,
+```
 
 On linux You might Have 2 Versions of Python installed So you'd Type
 
-,,,
+```
 pip3 install SpeechRecognition
-,,,
+```
 
 And That's it You can Now Run The Application.
