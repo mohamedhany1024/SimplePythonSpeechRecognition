@@ -22,5 +22,13 @@ On linux You might Have 2 Versions of Python installed So you'd Type
 ```
 pip3 install SpeechRecognition
 ```
-
+Now we Need To install another package Called PyAudio
+```
+pip install PyAudio
+```
+On linux you might type
+```
+pip3 install PyAudio
+```
+Now we Need to Install 
 And That's it You can Now Run The Application.
