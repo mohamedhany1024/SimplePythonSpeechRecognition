@@ -30,5 +30,4 @@ On linux you might type
 ```
 pip3 install PyAudio
 ```
-Now we Need to Install 
 And That's it You can Now Run The Application.
